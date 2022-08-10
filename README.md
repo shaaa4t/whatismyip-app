@@ -25,31 +25,31 @@
 │   │   └── widgets
 │   ├── features
 │   │   ├── ipinfo(details screen)
-│   │   │	  ├── data
-│   │   │	  │   ├── datasources
-│   │   │	  │   ├── models
-│   │   │	  │   └── repositories
-│   │   │	  ├── domain
-│   │   │	  │   ├── entities
-│   │   │	  │   ├── repositories
-│   │   │	  │   └── usecases
-│   │   │	  └── presentation
-│   │   │	    ├── cubit
-│   │   │	    ├── screens
-│   │   │	    └── widgets
+│   │   │   ├── data
+│   │   │   │   ├── datasources
+│   │   │   │   ├── models
+│   │   │   │   └── repositories
+│   │   │   ├── domain
+│   │   │   │   ├── entities
+│   │   │   │   ├── repositories
+│   │   │   │   └── usecases
+│   │   │   └── presentation
+│   │   │     ├── cubit
+│   │   │     ├── screens
+│   │   │     └── widgets
 │   │   └── myip (home screen)
-│   │    	  ├── data
-│   │   	  │   ├── datasources
-│   │   	  │   ├── models
-│   │    	  │   └── repositories
-│   │    	  ├── domain
-│   │    	  │   ├── entities
-│   │    	  │   ├── repositories
-│   │    	  │   └── usecases
-│   │    	  └── presentation
-│   │    	      ├── cubit
-│   │    	      ├── screens
-│   │    	      └── widgets
+│   │       ├── data
+│   │       │   ├── datasources
+│   │       │   ├── models
+│   │       │   └── repositories
+│   │       ├── domain
+│   │       │   ├── entities
+│   │       │   ├── repositories
+│   │       │   └── usecases
+│   │       └── presentation
+│   │           ├── cubit
+│   │           ├── screens
+│   │           └── widgets
 │   ├── app.dart
 │   ├── bloc_observer.dart
 │   ├── injection_container.dart
@@ -60,9 +60,6 @@
 
 ## Screenshots
 
-![](/readme_images/myip-home.jpg)
-![](/readme_images/more-details.jpg)
-![](/readme_images/drawer.jpg)
-![](/readme_images/dark-mode.jpg)
-![](/readme_images/arabic.jpg)
-![](/readme_images/error.jpg)
+![](/readme_images/myip-home.jpg) ![](/readme_images/more-details.jpg)
+![](/readme_images/drawer.jpg)  ![](/readme_images/dark-mode.jpg)
+![](/readme_images/arabic.jpg)  ![](/readme_images/error.jpg)
