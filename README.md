@@ -25,31 +25,31 @@
 │   │   └── widgets
 │   ├── features
 │   │   ├── ipinfo(details screen)
-│   │   │	├── data
-│   │   │	│   ├── datasources
-│   │   │	│   ├── models
-│   │   │	│   └── repositories
-│   │   │	├── domain
-│   │   │	│   ├── entities
-│   │   │	│   ├── repositories
-│   │   │	│   └── usecases
-│   │   │	└── presentation
+│   │   │	  ├── data
+│   │   │	  │   ├── datasources
+│   │   │	  │   ├── models
+│   │   │	  │   └── repositories
+│   │   │	  ├── domain
+│   │   │	  │   ├── entities
+│   │   │	  │   ├── repositories
+│   │   │	  │   └── usecases
+│   │   │	  └── presentation
 │   │   │	    ├── cubit
 │   │   │	    ├── screens
 │   │   │	    └── widgets
 │   │   └── myip (home screen)
-│   │    	├── data
-│   │   	│   ├── datasources
-│   │   	│   ├── models
-│   │    	│   └── repositories
-│   │    	├── domain
-│   │    	│   ├── entities
-│   │    	│   ├── repositories
-│   │    	│   └── usecases
-│   │    	└── presentation
-│   │    	    ├── cubit
-│   │    	    ├── screens (or pages)
-│   │    	    └── widgets
+│   │    	  ├── data
+│   │   	  │   ├── datasources
+│   │   	  │   ├── models
+│   │    	  │   └── repositories
+│   │    	  ├── domain
+│   │    	  │   ├── entities
+│   │    	  │   ├── repositories
+│   │    	  │   └── usecases
+│   │    	  └── presentation
+│   │    	      ├── cubit
+│   │    	      ├── screens
+│   │    	      └── widgets
 │   ├── app.dart
 │   ├── bloc_observer.dart
 │   ├── injection_container.dart
