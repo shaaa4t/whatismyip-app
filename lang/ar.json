@@ -1,0 +1,21 @@
+{
+  "app_name": "ما هو عنوان IP الخاص بي",
+  "opps": "عفواً !",
+  "please_check_your_internet_connection_and_try_again": "من فضلك أفحص اتصالك بالانترنت ، وأعد المحاولة",
+  "try_again": "حاول مجدداَ",
+  "welcome": "أهلًا بك",
+  "ok": "موافق",
+  "cancel": "إلغاء",
+  "something_went_wrong": "حدث خطأ ما",
+  "reload_screen": "إعادة تحميل الصفحة",
+  "ip_address": "عنوان الاي بي",
+  "city": "المدينة",
+  "country": "الدولة",
+  "timezone": "المنطقة الزمنية",
+  "org": "الشركة",
+  "supplier": "المزود",
+  "latlang": "خطوط الطول والعرض",
+  "dark_mode": "الوضع الداكن",
+  "arabic": "عربي",
+  "details": "تفاصيل أكثر"
+}
