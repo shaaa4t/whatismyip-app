@@ -4,7 +4,8 @@
 - Dark Mode
 - Localization
 
-##Implementing Reso Coder’s Clean Architecture
+## Implementing Reso Coder’s Clean Architecture
+
 ![](/readme_images/flow.png)
 
 ## Project Structure 
