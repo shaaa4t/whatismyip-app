@@ -1,16 +1,67 @@
-# whatismyip
+# **`WhatIsMyIP - Clean Architecture`** ✨
 
-A new Flutter project.
+## Features in app
+- Dark Mode
+- Localization
 
-## Getting Started
+##Implementing Reso Coder’s Clean Architecture
+![](/readme_images/flow.png)
 
-This project is a starting point for a Flutter application.
+## Project Structure 
+```dart 
+├── lang
+├── lib
+│   ├── config
+│   │   ├── locale
+│   │   ├── routes
+│   │   └── themes
+│   ├── core
+│   │   ├── api
+│   │   ├── error
+│   │   ├── network
+│   │   ├── usecases
+│   │   ├── utils
+│   │   └── widgets
+│   ├── features
+│   │   ├── ipinfo(details screen)
+│   │   │	├── data
+│   │   │	│   ├── datasources
+│   │   │	│   ├── models
+│   │   │	│   └── repositories
+│   │   │	├── domain
+│   │   │	│   ├── entities
+│   │   │	│   ├── repositories
+│   │   │	│   └── usecases
+│   │   │	└── presentation
+│   │   │	    ├── cubit
+│   │   │	    ├── screens
+│   │   │	    └── widgets
+│   │   └── myip (home screen)
+│   │    	├── data
+│   │   	│   ├── datasources
+│   │   	│   ├── models
+│   │    	│   └── repositories
+│   │    	├── domain
+│   │    	│   ├── entities
+│   │    	│   ├── repositories
+│   │    	│   └── usecases
+│   │    	└── presentation
+│   │    	    ├── cubit
+│   │    	    ├── screens (or pages)
+│   │    	    └── widgets
+│   ├── app.dart
+│   ├── bloc_observer.dart
+│   ├── injection_container.dart
+│   └── main.dart
+├── pubspec.lock
+├── pubspec.yaml
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![](/readme_images/myip-home.jpg)
+![](/readme_images/more-details.jpg)
+![](/readme_images/drawer.jpg)
+![](/readme_images/dark-mode.jpg)
+![](/readme_images/arabic.jpg)
+![](/readme_images/error.jpg)
