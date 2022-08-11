@@ -1,6 +1,6 @@
-# **`WhatIsMyIP - Clean Architecture`** ✨
+# **`WhatIsMyIP - Clean Architecture`** 🚀
 
-## In clean code architecture, there are three main layers
+## In clean architecture, there are three main layers
 - config
 - core
 - features
