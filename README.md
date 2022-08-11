@@ -5,7 +5,7 @@
 - core
 - features
 
-## In clean code architecture, each feature has three main layers
+## Each feature has three main layers
 - data
 - domain
 - presentation
