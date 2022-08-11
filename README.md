@@ -40,9 +40,9 @@
 │   │   │   │   ├── repositories
 │   │   │   │   └── usecases
 │   │   │   └── presentation
-│   │   │     ├── cubit
-│   │   │     ├── screens
-│   │   │     └── widgets
+│   │   │       ├── cubit
+│   │   │       ├── screens
+│   │   │       └── widgets
 │   │   └── myip (home screen)
 │   │       ├── data
 │   │       │   ├── datasources
