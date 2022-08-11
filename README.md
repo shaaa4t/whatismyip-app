@@ -71,3 +71,5 @@
 ![](/readme_images/drawer.png)   ![](/readme_images/dark-mode.png)
 
 ![](/readme_images/arabic.png)   ![](/readme_images/error.png)
+
+#### _Main resource 👉 [github](https://github.com/ismailelmogy/quotes)_
