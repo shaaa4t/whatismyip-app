@@ -1,8 +1,14 @@
 # **`WhatIsMyIP - Clean Architecture`** ✨
 
-## Features in app
-- Dark Mode
-- Localization
+## In clean code architecture, there are three main layers
+- config
+- core
+- features
+
+## In clean code architecture, each feature has three main layers
+- data
+- domain
+- presentation
 
 ## Implementing Reso Coder’s Clean Architecture
 
@@ -60,6 +66,6 @@
 
 ## Screenshots
 
-![](/readme_images/myip-home.jpg) ![](/readme_images/more-details.jpg)
-![](/readme_images/drawer.jpg)  ![](/readme_images/dark-mode.jpg)
-![](/readme_images/arabic.jpg)  ![](/readme_images/error.jpg)
+![](/readme_images/myip-home.png) ![](/readme_images/more-details.png)
+![](/readme_images/drawer.png)  ![](/readme_images/dark-mode.png)
+![](/readme_images/arabic.png)  ![](/readme_images/error.png)
