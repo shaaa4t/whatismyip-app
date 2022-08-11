@@ -66,6 +66,8 @@
 
 ## Screenshots
 
-![](/readme_images/myip-home.png) ![](/readme_images/more-details.png)
-![](/readme_images/drawer.png)  ![](/readme_images/dark-mode.png)
-![](/readme_images/arabic.png)  ![](/readme_images/error.png)
+![](/readme_images/myip-home.png)    ![](/readme_images/more-details.png)
+
+![](/readme_images/drawer.png)   ![](/readme_images/dark-mode.png)
+
+![](/readme_images/arabic.png)   ![](/readme_images/error.png)
