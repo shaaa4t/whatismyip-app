@@ -30,7 +30,7 @@
 │   │   ├── utils
 │   │   └── widgets
 │   ├── features
-│   │   ├── ipinfo(details screen)
+│   │   ├── ipinfo (details screen)
 │   │   │   ├── data
 │   │   │   │   ├── datasources
 │   │   │   │   ├── models
