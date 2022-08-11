@@ -72,4 +72,4 @@
 
 ![](/readme_images/arabic.png)   ![](/readme_images/error.png)
 
-#### _Main resource 👉 [github](https://github.com/ismailelmogy/quotes)_
+#### _Main resource 👉 [Github](https://github.com/ismailelmogy/quotes), [Udemy](https://www.udemy.com/course/clean-architecture-in-flutter-arabic/)_
